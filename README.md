@@ -33,7 +33,7 @@ Program created in Python 3.6
 
 ## Setup
 
-Have redata.csv file in the same folder as script/program, the second column in redata.csv must address you want leads from.
+Have redata.csv file in the same folder as script/program, the second column in redata.csv must address you want leads from. Edit '/usr/lib/chromium-browser/chromedriver' to chrome driver location.
 
 Currently saves output info in separate text files because of pyperclip testing.
 
