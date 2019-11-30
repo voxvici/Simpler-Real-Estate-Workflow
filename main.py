@@ -8,7 +8,6 @@ import time
 import pyperclip
 
 class SREWF:
-
 	def __init__(self):
 		self.address = []
 		self.a = 1
