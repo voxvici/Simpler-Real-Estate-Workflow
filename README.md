@@ -26,10 +26,10 @@ Program created in Python 3.6
 
 [pyperclip](https://pypi.org/project/pyperclip/) >= 1.7.0
 
-## Future
+## Future Updates
 
-1. Choose real estate website
-2. Choose file format/output
+Choose real estate website
+Choose file format/output
 
 ## Setup
 
